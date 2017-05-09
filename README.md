@@ -1,4 +1,4 @@
-# intellij-code-style
+# jetbrains-ide-code-style
 
 This repository contains my personal code style in the JetBrains IDEs.
 The supported languages are currently Java, PHP and CSS.
