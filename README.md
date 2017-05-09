@@ -15,3 +15,7 @@ git clone https://github.com/basvandriel/intellij-code-style.git
 # Builds the MAKEFILE
 make
 ```
+
+## License
+
+This project is licensed under the The Unlicensed - see the [LICENSE.md](LICENSE.md) file for details 
