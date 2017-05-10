@@ -3,6 +3,12 @@
 This repository contains my personal code style in the JetBrains IDEs.
 The supported languages are currently Java, PHP and CSS.
 
+## Requirements
+
+* The unix `make` tool
+* The unix `zip` tool
+* Composer
+
 ## Installation
 
 Checkout the repository to any directory on your computer and run the make file.
